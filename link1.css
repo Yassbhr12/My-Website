@@ -1,0 +1,43 @@
+body{
+    background-image:url('./background.jpg');
+    background-size: cover;
+}
+#img{
+    border-radius: 10px;
+    border:10px solid rgb(40, 40, 40);
+
+}
+#div1{
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    margin:25%;
+    width: 50%;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+#div2{
+    color:white;
+
+}
+.img123{
+    height: 200px;
+
+}
+#div3{
+    border:5px solid rgb(35, 33, 33) ;
+    margin-bottom:30px ;
+}
+#para{
+    margin: 30px;
+}
+.img123{
+    margin:30px;
+}
+#text{
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
